@@ -1,3 +1,3 @@
 # Understanding-PyTorch
 
-I created this repository just to learn the PyTorch framework.
+I created this repository just to learn PyTorch framework.
